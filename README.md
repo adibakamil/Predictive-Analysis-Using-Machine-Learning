@@ -1,24 +1,13 @@
-# Predictive-Analysis-Using-Machine-Learning
-## Overview
-This task focuses on building a machine learning model to predict outcomes from datasets. The project includes feature selection, model training, and evaluation.
+# StudentPerformancePrediction-ML
+This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
 
-## Deliverables
-Jupyter Notebook with regression/classification models
 
-Dataset (Employees / Superstore)
+In this Project, a dataset which has students from nationalities, different grade levels and also soe determining factors like,
+number of hands raised, nuber attendances, number of hours studied etc. is used, which is a CSV File.
 
-Results: accuracy score and prediction outputs
 
-## Tools Used
-Scikit‑learn – ML algorithms and evaluation
+And a few different classifiers and ML models have been used to get the most accurate predictions of which factors,
+affect the marks of students.
 
-Pandas – Data preprocessing
-
-Matplotlib – Performance visualization
-
-## Highlights
-Selected and preprocessed dataset features
-
-Trained models (Logistic Regression / Decision Tree)
-
-Evaluated performance with accuracy and confusion matrix
+A few visual aids like graphs and confusion matrix have been created, to show the results.
+Also additional heatmaps and other charts have been added to further demonstrate how data modelling and engineering works.
